@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]">
+  <test name="StewartSeed(failed)">
+    <parameter name="password" value="Test_123"/>
+    <parameter name="url" value="http://eservices-t.stewartseeds.com"/>
+    <parameter name="username" value="office.person"/>
+    <classes>
+      <class name="StewartSeed.StewartTestCase1">
+        <methods>
+          <include name="verifyHomeTitle"/>
+          <include name="beforeMethod"/>
+          <include name="clickonDifferentTabs"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- StewartSeed.StewartTestCase1 -->
+    </classes>
+  </test> <!-- StewartSeed(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

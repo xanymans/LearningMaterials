@@ -1,0 +1,92 @@
+10:39:57.316 INFO  StewartSeed.StewartTestCaseFactory -Username text box element found
+10:39:57.416 INFO  StewartSeed.StewartTestCaseFactory -Enter username as office.person
+10:39:57.437 INFO  StewartSeed.StewartTestCaseFactory -Password text box element found
+10:39:57.485 INFO  StewartSeed.StewartTestCaseFactory -Enter password as Test_123
+10:40:06.023 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+10:40:06.085 INFO  StewartSeed.StewartTestCase1 -Login Username Validation Passed
+10:40:10.202 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Customers tab
+10:40:18.094 INFO  StewartSeed.StewartTestCaseFactory -Click on Go
+10:40:22.111 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+10:40:22.818 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Dealers tab
+10:40:29.742 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+10:40:33.759 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+10:40:34.817 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Inventory tab
+10:40:44.817 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+10:40:48.839 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+10:40:49.577 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Reports tab
+10:40:51.594 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+10:40:52.931 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Additional Tools tab
+10:40:55.677 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+10:40:59.692 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+10:41:00.813 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Bill Pay tab
+10:41:02.828 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+10:41:05.566 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Admin tab
+10:41:07.582 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+10:41:10.412 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+10:41:15.710 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Help tab
+10:41:18.105 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+10:41:22.235 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Publishers tab
+11:08:27.399 INFO  StewartSeed.StewartTestCaseFactory -Username text box element found
+11:08:27.499 INFO  StewartSeed.StewartTestCaseFactory -Enter username as office.person
+11:08:27.519 INFO  StewartSeed.StewartTestCaseFactory -Password text box element found
+11:08:27.565 INFO  StewartSeed.StewartTestCaseFactory -Enter password as Test_123
+11:08:37.285 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:08:37.331 INFO  StewartSeed.StewartTestCase1 -Login Username Validation Passed
+11:08:42.189 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Customers tab
+11:08:55.429 INFO  StewartSeed.StewartTestCaseFactory -Click on Go
+11:08:59.449 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:09:41.472 INFO  StewartSeed.StewartTestCaseFactory -Username text box element found
+11:09:41.527 INFO  StewartSeed.StewartTestCaseFactory -Enter username as office.person
+11:09:41.550 INFO  StewartSeed.StewartTestCaseFactory -Password text box element found
+11:09:41.597 INFO  StewartSeed.StewartTestCaseFactory -Enter password as Test_123
+11:09:50.818 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:09:50.867 INFO  StewartSeed.StewartTestCase1 -Login Username Validation Passed
+11:09:55.386 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Customers tab
+11:10:04.240 INFO  StewartSeed.StewartTestCaseFactory -Click on Go
+11:10:08.260 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:17:04.094 INFO  StewartSeed.StewartTestCaseFactory -Username text box element found
+11:17:04.206 INFO  StewartSeed.StewartTestCaseFactory -Enter username as office.person
+11:17:04.228 INFO  StewartSeed.StewartTestCaseFactory -Password text box element found
+11:17:04.278 INFO  StewartSeed.StewartTestCaseFactory -Enter password as Test_123
+11:17:13.960 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:17:14.036 INFO  StewartSeed.StewartTestCase1 -Login Username Validation Passed
+11:17:18.871 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Customers tab
+11:17:30.422 INFO  StewartSeed.StewartTestCaseFactory -Click on Go
+11:17:34.443 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:21:01.669 INFO  StewartSeed.StewartTestCaseFactory -Username text box element found
+11:21:01.773 INFO  StewartSeed.StewartTestCaseFactory -Enter username as office.person
+11:21:01.795 INFO  StewartSeed.StewartTestCaseFactory -Password text box element found
+11:21:01.844 INFO  StewartSeed.StewartTestCaseFactory -Enter password as Test_123
+11:21:11.053 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:21:11.113 INFO  StewartSeed.StewartTestCase1 -Login Username Validation Passed
+11:21:16.128 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Customers tab
+11:21:26.557 INFO  StewartSeed.StewartTestCaseFactory -Click on Go
+11:21:30.578 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:24:06.582 INFO  StewartSeed.StewartTestCaseFactory -Username text box element found
+11:24:06.686 INFO  StewartSeed.StewartTestCaseFactory -Enter username as office.person
+11:24:06.710 INFO  StewartSeed.StewartTestCaseFactory -Password text box element found
+11:24:06.761 INFO  StewartSeed.StewartTestCaseFactory -Enter password as Test_123
+11:24:16.215 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:24:16.281 INFO  StewartSeed.StewartTestCase1 -Login Username Validation Passed
+11:24:20.215 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Customers tab
+11:24:29.150 INFO  StewartSeed.StewartTestCaseFactory -Click on Go
+11:24:33.175 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:24:33.869 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Dealers tab
+11:24:41.848 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:24:45.865 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:24:46.542 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Inventory tab
+11:24:57.082 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:25:01.097 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:25:01.806 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Reports tab
+11:25:03.830 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:25:05.624 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Additional Tools tab
+11:25:08.372 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:25:12.396 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:25:13.466 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Bill Pay tab
+11:25:15.485 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:25:17.439 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Admin tab
+11:25:19.455 INFO  StewartSeed.StewartTestCase1 -Title Validation Passed
+11:25:22.170 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:25:27.459 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Help tab
+11:25:29.839 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:25:34.964 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Publishers tab

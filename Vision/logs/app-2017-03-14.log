@@ -1,0 +1,5 @@
+22:10:22.792 TRACE StewartSeed.Logging -Trace Message Logged
+22:10:22.796 DEBUG StewartSeed.Logging -Debug Message Logged
+22:10:22.796 INFO  StewartSeed.Logging -Info Message Logged
+22:10:22.796 ERROR StewartSeed.Logging -Error Message Logged
+22:10:22.796 FATAL StewartSeed.Logging -Fatal Message Logged

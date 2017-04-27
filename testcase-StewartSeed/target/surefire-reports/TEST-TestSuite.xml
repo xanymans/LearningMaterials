@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="4" failures="2" name="TestSuite" time="105.302" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
+    <property name="java.vm.version" value="25.121-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Eclipse Workspace\testcase-StewartSeed"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Eclipse Workspace\testcase-StewartSeed"/>
+    <property name="java.runtime.version" value="1.8.0_121-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\ptula\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Eclipse Workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8972740376975278342.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Ruby200\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Oracle\Product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Common Files\Ulead Systems\MPEG;C:\Program Files (x86)\nodejs\;C:\Program Files (x86)\Lenovo\Password Manager\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Lenovo\Access Connections\\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\Java\jre1.8.0_121\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\Java\jre1.8.0_121\bin;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files\Apache\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\ptula\AppData\Roaming\npm;C:\Program Files (x86)\Java\jre7\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Installer\Eclipse\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\ptula"/>
+    <property name="user.timezone" value="America/Chicago"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="PTULA"/>
+    <property name="java.class.path" value="/C:/Installer/Eclipse/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.7.0.20160603-1931/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -gs C:\Program Files\Apache\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml -s C:\Program Files\Apache\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_121"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Eclipse Workspace\testcase-StewartSeed\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="StewartSeedTestCase1.mainTestCase" name="login" time="14.114"/>
+  <testcase classname="StewartSeedTestCase1.mainTestCase" name="navigatingTabs" time="83.073">
+    <failure message="unknown error: Element &lt;a href=&quot;https://eservices-t.stewartseeds.com:443/irj/portal/stewartseeds?NavigationTarget=navurl://851fe6001fb7550d4434823a67846890&amp;amp;InitialNodeFirstLevel=true&quot; target=&quot;_top&quot; class=&quot;unChosenOnLevel1&quot;&gt;...&lt;/a&gt; is not clickable at point (372, 62). Other element would receive the click: &lt;div id=&quot;gdam_TableCloth&quot; style=&quot;top: 0px; left: 0px; height: 980px; width: 100%; overflow: hidden; display: block; opacity: 0;&quot;&gt;...&lt;/div&gt;
+  (Session info: chrome=54.0.2840.59)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 914 milliseconds
+Build info: version: &apos;3.2.0&apos;, revision: &apos;8c03df6b79&apos;, time: &apos;2017-02-23 10:51:31 +0000&apos;
+System info: host: &apos;R9024795&apos;, ip: &apos;10.30.174.137&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\ptula\AppData\Local\Temp\scoped_dir14396_24888}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.59, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4e628dd8d3ce843d913a139f54539b3d" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: unknown error: Element &lt;a href=&quot;https://eservices-t.stewartseeds.com:443/irj/portal/stewartseeds?NavigationTarget=navurl://851fe6001fb7550d4434823a67846890&amp;amp;InitialNodeFirstLevel=true&quot; target=&quot;_top&quot; class=&quot;unChosenOnLevel1&quot;&gt;...&lt;/a&gt; is not clickable at point (372, 62). Other element would receive the click: &lt;div id=&quot;gdam_TableCloth&quot; style=&quot;top: 0px; left: 0px; height: 980px; width: 100%; overflow: hidden; display: block; opacity: 0;&quot;&gt;...&lt;/div&gt;
+  (Session info: chrome=54.0.2840.59)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 914 milliseconds
+Build info: version: &apos;3.2.0&apos;, revision: &apos;8c03df6b79&apos;, time: &apos;2017-02-23 10:51:31 +0000&apos;
+System info: host: &apos;R9024795&apos;, ip: &apos;10.30.174.137&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\ptula\AppData\Local\Temp\scoped_dir14396_24888}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.59, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4e628dd8d3ce843d913a139f54539b3d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:638)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:274)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at StewartSeedTestCase1.MultipleTabPageFactory.clickOnReportTab(MultipleTabPageFactory.java:170)
+	at StewartSeedTestCase1.mainTestCase.navigatingTabs(mainTestCase.java:107)
+</failure>
+    <system-out>Customers &amp; Orders - SAP NetWeaver Portal
+Dealer Order - SAP NetWeaver Portal
+Inventory - SAP NetWeaver Portal
+</system-out>
+  </testcase>
+  <testcase classname="StewartSeedTestCase1.mainTestCase" name="logoff" time="0.087">
+    <failure message="unknown error: Element &lt;span ct=&quot;TextView&quot; class=&quot;urTxtStd&quot; style=&quot;white-space:nowrap;&quot;&gt;...&lt;/span&gt; is not clickable at point (688, 18). Other element would receive the click: &lt;div id=&quot;gdam_TableCloth&quot; style=&quot;top: 0px; left: 0px; height: 980px; width: 100%; overflow: hidden; display: block; opacity: 0;&quot;&gt;...&lt;/div&gt;
+  (Session info: chrome=54.0.2840.59)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 48 milliseconds
+Build info: version: &apos;3.2.0&apos;, revision: &apos;8c03df6b79&apos;, time: &apos;2017-02-23 10:51:31 +0000&apos;
+System info: host: &apos;R9024795&apos;, ip: &apos;10.30.174.137&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\ptula\AppData\Local\Temp\scoped_dir14396_24888}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.59, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4e628dd8d3ce843d913a139f54539b3d" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: unknown error: Element &lt;span ct=&quot;TextView&quot; class=&quot;urTxtStd&quot; style=&quot;white-space:nowrap;&quot;&gt;...&lt;/span&gt; is not clickable at point (688, 18). Other element would receive the click: &lt;div id=&quot;gdam_TableCloth&quot; style=&quot;top: 0px; left: 0px; height: 980px; width: 100%; overflow: hidden; display: block; opacity: 0;&quot;&gt;...&lt;/div&gt;
+  (Session info: chrome=54.0.2840.59)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 48 milliseconds
+Build info: version: &apos;3.2.0&apos;, revision: &apos;8c03df6b79&apos;, time: &apos;2017-02-23 10:51:31 +0000&apos;
+System info: host: &apos;R9024795&apos;, ip: &apos;10.30.174.137&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\ptula\AppData\Local\Temp\scoped_dir14396_24888}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.59, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4e628dd8d3ce843d913a139f54539b3d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:638)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:274)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at StewartSeedTestCase1.MultipleTabPageFactory.clickOnLogOffButton(MultipleTabPageFactory.java:299)
+	at StewartSeedTestCase1.mainTestCase.logoff(mainTestCase.java:142)
+</failure>
+  </testcase>
+  <testcase classname="com.Vision.testcase_StewartSeed.AppTest" name="testApp on testApp(com.Vision.testcase_StewartSeed.AppTest)" time="8.028"/>
+</testsuite>

@@ -1,0 +1,17 @@
+<suite name="StewartSeed">
+<test name="StewartTestCase1" preserve-order="true">
+<!-- <parameter name="username" value="office.person" /> -->
+<!-- <parameter name="password" value="Test_123" /> -->
+<!-- <parameter name="url" value="http://eservices-t.stewartseeds.com" /> -->
+<classes>
+	<class name="StewartSeedTestCase1.mainTestCase">
+		<methods>
+			<include name="login" />
+		 	<include name="navigatingTabs" />
+			<include name="logoff" />		
+		</methods>
+
+	</class>
+</classes>
+</test>
+</suite>

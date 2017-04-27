@@ -1,0 +1,4 @@
+14:53:20.494 INFO  StewartSeed.StewartTestCaseFactory -Username text box element found
+14:53:20.788 INFO  StewartSeed.StewartTestCaseFactory -Enter username as office.person
+14:53:20.817 INFO  StewartSeed.StewartTestCaseFactory -Password text box element found
+14:53:20.869 INFO  StewartSeed.StewartTestCaseFactory -Enter password as Test_123

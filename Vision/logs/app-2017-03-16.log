@@ -1,0 +1,29 @@
+09:39:58.593 INFO  StewartSeed.StewartTestCaseFactory -Username text box element found
+09:39:58.905 INFO  StewartSeed.StewartTestCaseFactory -Enter username as office.person
+09:39:58.929 INFO  StewartSeed.StewartTestCaseFactory -Password text box element found
+09:39:58.981 INFO  StewartSeed.StewartTestCaseFactory -Enter password as Test_123
+09:40:24.911 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Customers tab
+09:40:38.324 INFO  StewartSeed.StewartTestCaseFactory -Click on Go
+09:40:43.090 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Dealers tab
+09:40:50.630 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+09:40:55.335 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Inventory tab
+09:41:31.985 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:17:18.119 INFO  StewartSeed.StewartTestCaseFactory -Username text box element found
+11:17:18.214 INFO  StewartSeed.StewartTestCaseFactory -Enter username as office.person
+11:17:18.234 INFO  StewartSeed.StewartTestCaseFactory -Password text box element found
+11:17:18.278 INFO  StewartSeed.StewartTestCaseFactory -Enter password as Test_123
+11:17:41.842 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Customers tab
+11:17:53.534 INFO  StewartSeed.StewartTestCaseFactory -Click on Go
+11:17:58.225 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Dealers tab
+11:18:05.006 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:18:09.683 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Inventory tab
+11:18:26.015 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:18:30.850 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Reports tab
+11:18:34.266 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Additional Tools tab
+11:18:36.984 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:18:42.211 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Bill Pay tab
+11:18:46.345 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Admin tab
+11:18:50.615 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:18:55.636 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Help tab
+11:18:58.067 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+11:19:03.082 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Publishers tab

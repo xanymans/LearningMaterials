@@ -1,0 +1,19 @@
+20:06:16.459 INFO  StewartSeed.StewartTestCaseFactory -Username text box element found
+20:06:16.519 INFO  StewartSeed.StewartTestCaseFactory -Enter username as office.person
+20:06:16.540 INFO  StewartSeed.StewartTestCaseFactory -Password text box element found
+20:06:16.589 INFO  StewartSeed.StewartTestCaseFactory -Enter password as Test_123
+20:06:35.605 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Customers tab
+20:06:56.562 INFO  StewartSeed.StewartTestCaseFactory -Click on Go
+20:07:01.299 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Dealers tab
+20:07:14.064 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+20:07:19.375 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Inventory tab
+20:07:42.285 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+20:07:47.244 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Reports tab
+20:07:49.357 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Additional Tools tab
+20:07:52.339 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+20:07:56.473 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Bill Pay tab
+20:08:01.098 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Admin tab
+20:08:07.754 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+20:08:12.917 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Help tab
+20:08:15.407 INFO  StewartSeed.StewartTestCaseFactory -Click Go
+20:08:19.560 INFO  StewartSeed.StewartTestCaseFactory -Navigate to Publishers tab

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [StewartSeed]">
+  <test name="StewartTestCase1(failed)">
+    <parameter name="password" value="Test_123"/>
+    <parameter name="url" value="http://eservices-t.stewartseeds.com"/>
+    <parameter name="username" value="office.person"/>
+    <classes>
+      <class name="StewartSeedTestCase1.mainTestCase">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="login" invocation-numbers="0"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- StewartSeedTestCase1.mainTestCase -->
+    </classes>
+  </test> <!-- StewartTestCase1(failed) -->
+</suite> <!-- Failed suite [StewartSeed] -->
